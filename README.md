@@ -6,11 +6,15 @@
 - **Correo:** profeluisindel@outlook.es
 - **Teléfono:** +503 7920-6706
 
-
+----
 
 ## 🧑‍💻 Sobre mí
+---
 
-###Profesor en Sistemas Informáticos y  Analista de Sistemas.
+
+### Profesor en Sistemas Informáticos y  Analista de Sistemas.
+---
+
 
 ## 🚀 Tecnologías 
 
