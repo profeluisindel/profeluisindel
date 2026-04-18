@@ -20,8 +20,12 @@
 * 💻 Especialidad en desarrollo .Net
 * 🧰 Frameworks: .NET MVC, Blazor, Identity, Entity Framework 
 * 🗄️ Bases de datos: SQL Server, PostgreSQL, MySQL
-* ⚙️ Herramientas: Visual Studio Code, Visual Studio Community 
-* 🌐 Otros: HTML, CSS
+* ⚙️ Herramientas: Visual Studio Code, Visual Studio Community
+  
+## 🌐 Otros: 
+* Lenguajes: C#, JAVA, JavaScript, Visual Basic, Python.
+  
+---
 
 ## 📂 sitio web - experiencias
 * 💼 LinkedIn: https://sites.google.com/view/profe-luis89
