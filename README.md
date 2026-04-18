@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologías 
 
-* 💻 Especialidad en desarrollo en .Net
+* 💻 Especialidad en desarrollo .Net
 * 🧰 Frameworks: .NET MVC, Blazor, Identity, Entity Framework 
 * 🗄️ Bases de datos: SQL Server, PostgreSQL, MySQL
 * ⚙️ Herramientas: Visual Studio Code, Visual Studio Community 
