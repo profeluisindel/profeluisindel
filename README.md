@@ -9,7 +9,6 @@
 ----
 
 ## 🧑‍💻 Sobre mí
----
 
 
 ### Profesor en Sistemas Informáticos y  Analista de Sistemas.
